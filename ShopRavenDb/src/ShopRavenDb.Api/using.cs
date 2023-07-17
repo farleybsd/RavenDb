@@ -1,0 +1,1 @@
+﻿global using ShopRavenDb.InfraStructure.CrossCutting.Ioc;

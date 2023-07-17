@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p8hywCmsLiKnjLa3fahK96U4+trbi5V78W+QtkTdWlKaXvR4w8NQ4W944FvHbbUafJvuVfmRyMzJrYjgqpYb+w==",
+  "dgSpecHash": "exz6Y+W8TYe/ZEH4N4ihsRxU5utxIKe+bMVG+E0p7g5m+RH7I5Et7ylCUE6yxp2BQeq8VubQ+TOh1DTfXwTgvQ==",
   "success": true,
   "projectFilePath": "C:\\ProjetosPessoais\\rave\\ShopRavenDb\\src\\ShopRavenDb.InfraStructure\\ShopRavenDb.InfraStructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\farley.rufino\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\farley.rufino\\.nuget\\packages\\lambda2js.signed\\3.1.4\\lambda2js.signed.3.1.4.nupkg.sha512",
     "C:\\Users\\farley.rufino\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.4\\microsoft.aspnetcore.jsonpatch.7.0.4.nupkg.sha512",
     "C:\\Users\\farley.rufino\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

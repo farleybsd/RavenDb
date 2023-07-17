@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ShopRavenDb.Domain.Core/1.0.0": {
+        "dependencies": {
+          "ShopRavenDb.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ShopRavenDb.Domain.Core.dll": {}
+        }
+      },
+      "ShopRavenDb.Domain/1.0.0": {
+        "runtime": {
+          "ShopRavenDb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopRavenDb.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopRavenDb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

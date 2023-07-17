@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ShopRavenDb.Domain.Core\ShopRavenDb.Domain.Core.csproj" />
+  </ItemGroup>
+
 </Project>

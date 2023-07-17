@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "AutoMapper/12.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Lambda2Js.Signed/3.1.4": {
         "type": "package",
         "compile": {
@@ -215,6 +231,21 @@
           }
         }
       },
+      "ShopRavenDb.Aplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AutoMapper": "12.0.1",
+          "ShopRavenDb.Domain": "1.0.0",
+          "ShopRavenDb.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopRavenDb.Aplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopRavenDb.Aplication.dll": {}
+        }
+      },
       "ShopRavenDb.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -237,10 +268,38 @@
         "runtime": {
           "bin/placeholder/ShopRavenDb.Domain.Core.dll": {}
         }
+      },
+      "ShopRavenDb.Domain.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ShopRavenDb.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopRavenDb.Domain.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopRavenDb.Domain.Services.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "AutoMapper/12.0.1": {
+      "sha512": "hvV62vl6Hp/WfQ24yzo3Co9+OPl8wH8hApwVtgWpiAynVJkUcs7xvehnSftawL8Pe8FrPffBRM3hwzLQqWDNjA==",
+      "type": "package",
+      "path": "automapper/12.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.12.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.dll",
+        "lib/netstandard2.1/AutoMapper.xml"
+      ]
+    },
     "Lambda2Js.Signed/3.1.4": {
       "sha512": "Ryzu7T7ZzjQxTGxCSInAe0ZO3gbskW09qizdnrTUbZeNOyJzbdcQ39ylj4mJEYFeOUO1DQ1RqtBhQdiaMTSC6g==",
       "type": "package",
@@ -573,6 +632,11 @@
         "version.txt"
       ]
     },
+    "ShopRavenDb.Aplication/1.0.0": {
+      "type": "project",
+      "path": "../ShopRavenDb.Aplication/ShopRavenDb.Aplication.csproj",
+      "msbuildProject": "../ShopRavenDb.Aplication/ShopRavenDb.Aplication.csproj"
+    },
     "ShopRavenDb.Domain/1.0.0": {
       "type": "project",
       "path": "../ShopRavenDb.Domain/ShopRavenDb.Domain.csproj",
@@ -582,13 +646,20 @@
       "type": "project",
       "path": "../ShopRavenDb.Domain.Core/ShopRavenDb.Domain.Core.csproj",
       "msbuildProject": "../ShopRavenDb.Domain.Core/ShopRavenDb.Domain.Core.csproj"
+    },
+    "ShopRavenDb.Domain.Services/1.0.0": {
+      "type": "project",
+      "path": "../ShopRavenDb.Domain.Services/ShopRavenDb.Domain.Services.csproj",
+      "msbuildProject": "../ShopRavenDb.Domain.Services/ShopRavenDb.Domain.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
       "RavenDB.Client >= 5.4.103",
-      "ShopRavenDb.Domain.Core >= 1.0.0"
+      "ShopRavenDb.Aplication >= 1.0.0",
+      "ShopRavenDb.Domain.Core >= 1.0.0",
+      "ShopRavenDb.Domain.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -622,8 +693,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\ProjetosPessoais\\rave\\ShopRavenDb\\src\\ShopRavenDb.Aplication\\ShopRavenDb.Aplication.csproj": {
+              "projectPath": "C:\\ProjetosPessoais\\rave\\ShopRavenDb\\src\\ShopRavenDb.Aplication\\ShopRavenDb.Aplication.csproj"
+            },
             "C:\\ProjetosPessoais\\rave\\ShopRavenDb\\src\\ShopRavenDb.Domain.Core\\ShopRavenDb.Domain.Core.csproj": {
               "projectPath": "C:\\ProjetosPessoais\\rave\\ShopRavenDb\\src\\ShopRavenDb.Domain.Core\\ShopRavenDb.Domain.Core.csproj"
+            },
+            "C:\\ProjetosPessoais\\rave\\ShopRavenDb\\src\\ShopRavenDb.Domain.Services\\ShopRavenDb.Domain.Services.csproj": {
+              "projectPath": "C:\\ProjetosPessoais\\rave\\ShopRavenDb\\src\\ShopRavenDb.Domain.Services\\ShopRavenDb.Domain.Services.csproj"
             }
           }
         }

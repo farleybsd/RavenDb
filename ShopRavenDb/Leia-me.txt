@@ -4,7 +4,26 @@ Ordem dos Projetos para iniciar a Codar
 2. ShopRavenDb.InfraStructure
 3. ShopRavenDb.Domain.Core
 4. ShopRavenDb.Domain.Services
+5. ShopRavenDb.Aplication
 
 
 Instalacao
 RavenDB.Client  5.4.103
+AutoMapper 12.0.1
+
+
+{
+  "name": "Farley Rufino ",
+  "email": "farley.bola@gmail.com",
+  "birthDate": "2023-07-17T18:26:59.521Z",
+  "address": {
+    "street": "teste",
+    "number": 110,
+    "complement": "Casa",
+    "city": "Gov",
+    "state": "Mg",
+    "postalCode": "222",
+    "isActive": true
+  },
+  "cpf": "123456"
+}

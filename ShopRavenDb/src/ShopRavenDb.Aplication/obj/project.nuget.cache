@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HYsk3WAmwQH8rTl2sYwhcGz6LmK3zqq9QBEPdsgzexqVSz+aQSWLuvML1E5crU8yEYUQ7Z8G6DrhOzPP6imfaA==",
+  "dgSpecHash": "Zxj4z4EwoMaRtMg8t4jOqCyMBgyKtPXaDJItiScw+iKEGT5ejiwq1H+5guPqZ7Ug6fXbmbkR1cr4xzNeAKfGqQ==",
   "success": true,
   "projectFilePath": "C:\\ProjetosPessoais\\rave\\ShopRavenDb\\src\\ShopRavenDb.Aplication\\ShopRavenDb.Aplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\farley.rufino\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\farley.rufino\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

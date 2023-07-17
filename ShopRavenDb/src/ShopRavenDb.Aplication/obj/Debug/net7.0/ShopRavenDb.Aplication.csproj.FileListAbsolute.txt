@@ -1,0 +1,17 @@
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\bin\Debug\net7.0\ShopRavenDb.Aplication.deps.json
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\bin\Debug\net7.0\ShopRavenDb.Aplication.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\bin\Debug\net7.0\ShopRavenDb.Aplication.pdb
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\bin\Debug\net7.0\ShopRavenDb.Domain.Core.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\bin\Debug\net7.0\ShopRavenDb.Domain.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\bin\Debug\net7.0\ShopRavenDb.Domain.Core.pdb
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\bin\Debug\net7.0\ShopRavenDb.Domain.pdb
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ShopRavenDb.Aplication.csproj.AssemblyReference.cache
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ShopRavenDb.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ShopRavenDb.Aplication.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ShopRavenDb.Aplication.AssemblyInfo.cs
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ShopRavenDb.Aplication.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ShopRavenDb.Aplication.csproj.CopyComplete
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ShopRavenDb.Aplication.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\refint\ShopRavenDb.Aplication.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ShopRavenDb.Aplication.pdb
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Aplication\obj\Debug\net7.0\ref\ShopRavenDb.Aplication.dll

@@ -1,0 +1,17 @@
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\bin\Debug\net7.0\ShopRavenDb.Domain.Services.deps.json
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\bin\Debug\net7.0\ShopRavenDb.Domain.Services.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\bin\Debug\net7.0\ShopRavenDb.Domain.Services.pdb
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\bin\Debug\net7.0\ShopRavenDb.Domain.Core.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\bin\Debug\net7.0\ShopRavenDb.Domain.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\bin\Debug\net7.0\ShopRavenDb.Domain.Core.pdb
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\bin\Debug\net7.0\ShopRavenDb.Domain.pdb
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ShopRavenDb.Domain.Services.csproj.AssemblyReference.cache
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ShopRavenDb.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ShopRavenDb.Domain.Services.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ShopRavenDb.Domain.Services.AssemblyInfo.cs
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ShopRavenDb.Domain.Services.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ShopRavenDb.Domain.Services.csproj.CopyComplete
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ShopRavenDb.Domain.Services.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\refint\ShopRavenDb.Domain.Services.dll
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ShopRavenDb.Domain.Services.pdb
+C:\ProjetosPessoais\rave\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net7.0\ref\ShopRavenDb.Domain.Services.dll
