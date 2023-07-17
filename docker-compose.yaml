@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+  raven1:
+    image: ravendb/ravendb
+    container_name: raven1
+    hostname: raven1
+    ports:
+      - 8080:8080
+      - 38888:38888
+    environment:
+      - RAVEN_Security_UnsecuredAccessAllowed=PublicNetwork
+      - RAVEN_Setup_Mode=None
+      - RAVEN_License_Eula_Accepted=true
+    volumes:
+      - raven-data:/opt/RavenDB/Server/RavenData
+volumes:
+  raven-data:

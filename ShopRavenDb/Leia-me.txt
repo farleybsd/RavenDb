@@ -1,0 +1,10 @@
+Ordem dos Projetos para iniciar a Codar
+
+1. ShopRavenDb.Domain 
+2. ShopRavenDb.InfraStructure
+3. ShopRavenDb.Domain.Core
+4. ShopRavenDb.Domain.Services
+
+
+Instalacao
+RavenDB.Client  5.4.103
